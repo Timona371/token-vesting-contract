@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+contracts/artifacts
+artifacts
+cache
+docs
+env
+out
+lib

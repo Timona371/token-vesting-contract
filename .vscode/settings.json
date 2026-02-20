@@ -1,0 +1,5 @@
+{
+  "solidity.compileUsingRemoteVersion": "v0.8.19+commit.7dd6d40",
+  "editor.tabCompletion": "on",
+  "diffEditor.codeLens": true
+}
